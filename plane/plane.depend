@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634205949 source:c:\users\liuxiangyu\desktop\c program\plane\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+

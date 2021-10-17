@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634214123 source:c:\users\liuxiangyu\desktop\c program\hyx\main.c
+	<stdio.h>
+	<stdlib.h>
+
